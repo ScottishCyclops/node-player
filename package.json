@@ -1,5 +1,5 @@
 {
-  "name": "player",
+  "name": "node-player",
   "version": "1.0.0",
   "description": "Higher level abstraction on top of libgroove for node. Essentially a simple music player",
   "main": "index.js",
